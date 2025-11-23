@@ -7,3 +7,21 @@
 **Time Spent:** 4.5 hour 
 **Mistake of the Day:** Syntax of other Programming language
 **One Improvement for Tomorrow:** Mastering syntax
+
+### Day 2 — [22-November-25]
+
+**DSA:** Problems solved: 0 | Concepts: …  
+**Flutter:** Feature built: None 
+**GenAI:** Progress: created folder structure
+**Time Spent:** 1 hour
+**Mistake of the Day:** none
+**One Improvement for Tomorrow:** None
+
+### Day 3 — [23-November-25]
+
+**DSA:** Problems solved: 1 | Concepts: Arrays 
+**Flutter:** Feature built: None 
+**GenAI:** Progress: collaborated with a friend
+**Time Spent:** 3.5 hours  
+**Mistake of the Day:** Still Lacking Logic
+**One Improvement for Tomorrow:** Practicing Maths and memorizing syntax
