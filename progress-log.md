@@ -25,3 +25,12 @@
 **Time Spent:** 3.5 hours  
 **Mistake of the Day:** Still Lacking Logic
 **One Improvement for Tomorrow:** Practicing Maths and memorizing syntax
+
+### Day 4 — [24-November-25]
+
+**DSA:** Problems solved: 0 | Concepts: None 
+**Flutter:** Feature built: Profile Card
+**GenAI:** Progress: 
+**Time Spent:** 2 hours  
+**Mistake of the Day:** 
+**One Improvement for Tomorrow:** 
